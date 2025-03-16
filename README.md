@@ -21,7 +21,7 @@ A modern, feature-rich blog application built with React and Node.js, featuring 
 - 🔐 User and Author authentication using Clerk
 - ✍️ Create, edit, and delete blog posts
 - 💬 Comment system
-- 🌓 Dark/Light mode
+- 🤖 AI Chatbot powered by Gemini API
 - 📱 Responsive design
 - 🏷️ Category-based article organization
 - ⚡ Real-time updates
@@ -80,6 +80,7 @@ PORT=3000
 DBURL=your_mongodb_connection_string
 CLERK_SECRET_KEY=your_clerk_secret_key
 CLERK_PUBLISHABLE_KEY=your_clerk_secret_key
+Gemini_api_key=your_gemini_api_key
 ```
 
 ### Client Configuration
